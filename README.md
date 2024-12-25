@@ -1,6 +1,6 @@
 ENT216N Final Project 
 
-Machine Learning application based project on predicting HepC in patients that are blood donors.  
+Machine Learning application based project on predicting HepC in patients that are blood donors:
 
 
 The topic chosen for this project is Hepatitis C. Hepatitis C is a viral infection that causes inflammation within the liver. The virus can cause both acute and chronic hepatits, ranging in severity from a mild illness to a serious, lifelong illness including liver cirrhosis and cancer. The bloodborne virus is spread through exposure to infected blood from unsafe injection practices, unsafe health care, unscreened blood transfusions, injection drug use, and sexual practices that lead to exposure to blood. When it comes to symptoms, most people do not show in the first weeks after infection. It can take between two weeks to six months for the symptoms to appear. However, Hepatitis C cannot be spread through breast milk, food, water, or casual physical contact with an infected person.
